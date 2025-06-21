@@ -1,16 +1,23 @@
-## Hi there 👋
+<h1 align="left">Котляров Михаил</h1>
 
-<!--
-**Raptor-X102/Raptor-X102** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧾 Обо мне
 
-Here are some ideas to get you started:
+- 🎓 Студент, начинающий разработчик
+- 📝 Учусь в МФТИ, ФРКТ
+- 💼 В поиске стажировки
+- 📍 г. Долгопрудный, Россия
+- 👨‍💻 Языки программирования и технологии: C, Nasm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Мои навыки
+
+Подробнее здесь: [CV](https://github.com/Raptor-X102/CVs/blob/main/Kotlyarov_CV.pdf)
+
+---
+
+## 🔗 Связь со мной
+
+- 📩 Email: mihailoktlyarow@gmail.com
+- 💬 Telegram: [@VseTa1ant](https://telegram.me/VseTa1ant)
+- 🐦 VK: [@shiroyaksha](https://vk.com/shiroyaksha)
