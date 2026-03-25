@@ -12,7 +12,7 @@
 
 ## 🛠️ Мои навыки
 
-Подробнее здесь: ([https://github.com/Raptor-X102/CVs/blob/main/Kotlyarov_CV.pdf](https://github.com/Raptor-X102/CVs/blob/main/Kotlyarov_CV_2026.pdf)
+Подробнее здесь: [https://github.com/Raptor-X102/CVs/blob/main/Kotlyarov_CV.pdf](https://github.com/Raptor-X102/CVs/blob/main/Kotlyarov_CV_2026.pdf)
 
 ---
 
