@@ -18,6 +18,6 @@
 
 ## 🔗 Связь со мной
 
-- 📩 Email: mihailoktlyarow@gmail.com
+- 📩 Email: mihailkotlyarow@gmail.com
 - 💬 Telegram: [@VseTa1ant](https://telegram.me/VseTa1ant)
 - 🐦 VK: [@shiroyaksha](https://vk.com/shiroyaksha)
